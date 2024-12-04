@@ -88,3 +88,20 @@ Build an ML-powered recommendation engine.
 Interactive Streamlit app.
 
 ![image](https://github.com/user-attachments/assets/96449a74-e4fd-4bdc-8539-217db79e8303)
+
+### Market Trends Dashboard:
+
+#### Description:
+
+Visualize monthly job market dynamics.
+
+#### Deliverables
+
+Interactive dashboard.
+
+![image](https://github.com/user-attachments/assets/0ae338f4-4d14-4787-b6fa-5df09a6b21a6)
+
+![image](https://github.com/user-attachments/assets/344e5ec6-371b-4fdf-ba5f-00ef6a352607)
+
+![image](https://github.com/user-attachments/assets/91825244-f1bb-4994-aeea-38b10f306683)
+
