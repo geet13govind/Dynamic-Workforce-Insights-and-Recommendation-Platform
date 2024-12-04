@@ -120,3 +120,17 @@ streamlit run app.py
 
 #### 4. Access the Dashboard
 Open your browser and navigate to http://localhost:8501.
+
+## Some Visualizations:
+![image](https://github.com/user-attachments/assets/121c8cc9-596d-4676-94f5-1223d1942954)
+
+![image](https://github.com/user-attachments/assets/cda45d6d-e0f0-45e2-9d28-20cd57e6ffcc)
+
+![image](https://github.com/user-attachments/assets/bb9ce98d-64d4-4405-8b84-4411a790343a)
+
+![image](https://github.com/user-attachments/assets/9a8e5136-8c7f-4b13-b83b-ae3537bdc2ad)
+
+## Conclusion:
+This project successfully implements a comprehensive job recommendation and market analysis platform. With interactive dashboards, predictive analytics, and trend insights, it empowers users to navigate and adapt to evolving workforce dynamics effectively. The detailed analysis ensures accurate predictions, while the visualizations simplify understanding complex trends.
+
+
