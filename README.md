@@ -74,3 +74,16 @@ Time Series Analysis: statsmodels, Prophet
 Model Management: MLFlow
 
 Dashboard: Streamlit
+
+## Implementation Roadmap:
+
+### Job Recommendation:
+
+#### Description:
+
+Build an ML-powered recommendation engine.
+
+#### Deliverables:
+
+Interactive Streamlit app.
+
