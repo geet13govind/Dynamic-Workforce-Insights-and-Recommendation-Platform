@@ -87,3 +87,4 @@ Build an ML-powered recommendation engine.
 
 Interactive Streamlit app.
 
+![image](https://github.com/user-attachments/assets/96449a74-e4fd-4bdc-8539-217db79e8303)
