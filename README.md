@@ -107,16 +107,16 @@ Interactive dashboard.
 
 ## Getting Started
 #### 1. Clone the Repository
-bash
+bash:
 git clone https://github.com/your-username/dynamic-workforce-platform.git  
 
 #### 2. Install Dependencies
-bash
+bash:
 pip install -r requirements.txt  
 
 #### 3. Run the Dashboard
-bash
+bash:
 streamlit run app.py  
 
-4. Access the Dashboard
+#### 4. Access the Dashboard
 Open your browser and navigate to http://localhost:8501.
