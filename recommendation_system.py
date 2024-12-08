@@ -40,7 +40,7 @@ def recommend_jobs(user_input, tfidf_matrix, vectorizer, data):
     )
     return recommended_jobs
 
-# MLflow integration
+
 # MLflow Integration
 def track_with_mlflow(data, vectorizer):
     mlflow.set_experiment("Job Recommendation System")

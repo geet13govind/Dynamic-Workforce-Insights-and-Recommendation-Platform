@@ -13,6 +13,8 @@ MODEL_PATH = "models/tfidf_vectorizer.pkl"
 def load_data(filepath):
     try:
         data = pd.read_csv(filepath)
+        data.dropna(subset=["job_description"], inplace=True)
+        data["job_description"] = data["job_description"].fillna("").astype(str)
         return data
     except Exception as e:
         st.error(f"Error loading data: {e}")
